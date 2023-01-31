@@ -85,3 +85,6 @@ int main(){
 
 return 0;
 }
+
+
+// there is another type of inheritance i.e, hybrid inheritance, in which inheritance is the combination of one or two types of inheritance
