@@ -1,3 +1,5 @@
+/*in the case of multiple inheritance ...if the function of the same name is present in more than one parent class and then we have created the child class and called
+that function ,from which parent the funciton call itself ?---->to solve this problem we uses the scope resolution operator(::)*/
 #include<iostream>
 using namespace std;
 
